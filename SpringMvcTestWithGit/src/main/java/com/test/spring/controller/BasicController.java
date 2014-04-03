@@ -13,6 +13,6 @@ public class BasicController {
 	@ResponseBody
 	public String testController(){
 		
-		return "inside test controller";
+		return "inside test controller ";
 	}
 }
